@@ -1,4 +1,4 @@
-# Hosted on https://tour-list.netlify.app/
+# Hosted on https://tour-list-al.netlify.app/
 
 ## Getting Started with Create React App
 
